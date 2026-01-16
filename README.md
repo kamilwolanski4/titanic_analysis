@@ -61,6 +61,17 @@ Na podstawie analizy danych:
 
 ---
 
+## Wartości odstające (outliery)
+
+W analizie wykryto wartości odstające w kilku zmiennych liczbowych:
+
+- **Wiek (age):** 9 rekordów *(0.69%)*
+- **Liczba rodzeństwa/małżonków na pokładzie (sibsp):** 57 rekordów *(4.35%)*
+- **Liczba rodziców/dzieci na pokładzie (parch):** 307 rekordów *(23.44%)*
+- **Cena biletu (fare):** 171 rekordów *(13.05%)*
+
+Największy udział wartości odstających wystąpił w zmiennej **parch**, co może sugerować obecność rzadkich, nietypowych konfiguracji rodzin podróżujących razem.
+
 ## Autor
 - Kamil Wolański
 - Link do notebooka 
